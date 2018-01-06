@@ -39,8 +39,8 @@ def alan_kay_is_known_for
         }
      }
 
-return programmer_hash[:alan_kay][:languages][0]
-return programmer_hash[:alan_kay][:languages][1]
+programmer_hash[:alan_kay][:languages][0]
+programmer_hash[:alan_kay][:languages][1]
 
 end
 
